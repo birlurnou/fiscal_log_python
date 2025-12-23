@@ -25,28 +25,29 @@
 
 ### __Target_dir folder structure__
 
+    2025/
+    ├── 01 January 2025/
+        ├── 01.01 archive/
+            ├── 1. dd.mm - dd.mm.log
+            ├── ...
+            ├── 10. dd.mm - dd.mm.log
+            └── hrsfiscal.log
+        ├── 15.01 archive/
+            ├── 1. dd.mm - dd.mm.log
+            ├── ...
+            ├── 10. dd.mm - dd.mm.log
+            └── hrsfiscal.log
+        └── 31.01/
+            ├── 1. dd.mm - dd.mm.log
+            ├── ...
+            ├── 10. dd.mm - dd.mm.log
+            └── hrsfiscal.log
 
-__2025__
-- 01 January 2025
-    - 01.01 archive
-        - 1. dd.mm - dd.mm.log
-        - ...
-    - 15.01 archive
-        - 1. dd.mm - dd.mm.log
-        - ...
-    - 31.01
-        - 1. dd.mm - dd.mm.log
-        - ...
-- 02 February 2025
-    - 01.02 archive
-        - 1. dd.mm - dd.mm.log
-        - ...
-    - 15.02 archive
-        - 1. dd.mm - dd.mm.log
-        - ...
-    - 28.02
-        - 1. dd.mm - dd.mm.log
-        - ...
+    ├── 02 February 2025/
+        └── ...
+    ├── ...
+    └── 12 December 2025/
+        └── ...
 
-__...__
+
 
